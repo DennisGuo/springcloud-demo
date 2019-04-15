@@ -38,4 +38,6 @@ A demo for spring cloud framework, build with gradle.
 
 ## References
 
+- [Spring Cloud - Netflix OSS Example](https://github.com/Oreste-Luci/netflix-oss-example/)
+
 - [Build a sample project with spring cloud using cloud config, eureka, zuul, feign, hystrix and turbine](https://medium.com/@27.rahul.k/build-a-sample-project-with-spring-cloud-using-cloud-config-eureka-zuul-feign-hystrix-and-378b16bcb7c3)
