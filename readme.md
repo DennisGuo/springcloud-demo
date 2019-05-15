@@ -2,6 +2,12 @@
 
 A demo for spring cloud framework, build with gradle.
 
+### How to build
+
+```bash
+gradle bootJar
+```
+
 ## Start up sequence
 
 1. ConfigApp  => `config center`
